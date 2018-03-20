@@ -1,0 +1,166 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJZ-DLDJ9HrTsR681u8-Ui8v4",
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "university"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJL3EU1JA4rTsRsK1OmLomSfg",
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 12.9688803,
+                    "lng": 79.1558921
+                },
+                "southwest": {
+                    "lat": 12.9316002,
+                    "lng": 79.1361362
+                }
+            },
+            "copyrights": "Map data \u00a92018 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "6.2 km",
+                        "value": 6215
+                    },
+                    "duration": {
+                        "text": "14 mins",
+                        "value": 826
+                    },
+                    "end_address": "No: 1, Near Green Circle, NH 46 Service Road, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+                    "end_location": {
+                        "lat": 12.9316002,
+                        "lng": 79.1361362
+                    },
+                    "start_address": "Near Katpadi Road, Vellore, Tamil Nadu 632014, India",
+                    "start_location": {
+                        "lat": 12.9681377,
+                        "lng": 79.1558921
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "3 m",
+                                "value": 3
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 1
+                            },
+                            "end_location": {
+                                "lat": 12.9681101,
+                                "lng": 79.1558901
+                            },
+                            "html_instructions": "Head <b>south</b> toward <b>VIT Main Rd</b>",
+                            "polyline": {
+                                "points": "{ycnAiccbND?"
+                            },
+                            "start_location": {
+                                "lat": 12.9681377,
+                                "lng": 79.1558921
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2.1 km",
+                                "value": 2114
+                            },
+                            "duration": {
+                                "text": "5 mins",
+                                "value": 271
+                            },
+                            "end_location": {
+                                "lat": 12.9661407,
+                                "lng": 79.1375797
+                            },
+                            "html_instructions": "Turn <b>right</b> at VIT Main Gate onto <b>VIT Main Rd</b><div style=\"font-size:0.9em\">Pass by Goli Vada Pav Katpadi (on the left)</div>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "uycnAiccbNH??B?J@jB@dA?P@z@@XAbB?jA@B@xB@p@FnADdBDlAFjBBn@Bj@@h@@RB~@?l@AXARATEVEPERG\\u@fDSl@Mb@q@nCKh@AJENCVERCVAREf@AVA`@Al@Av@?f@?BBhB@l@@VB~@DpB@R@l@@Z@f@@pB?H?xA@VDj@BPFXDLFNHLBHp@|@zAnBjAxATXfBlBbBjBJPN\\"
+                            },
+                            "start_location": {
+                                "lat": 12.9681101,
+                                "lng": 79.1558901
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3.8 km",
+                                "value": 3795
+                            },
+                            "duration": {
+                                "text": "8 mins",
+                                "value": 483
+                            },
+                            "end_location": {
+                                "lat": 12.9325065,
+                                "lng": 79.13842269999999
+                            },
+                            "html_instructions": "Turn <b>left</b> at Cobbler shop onto <b>NH75</b><div style=\"font-size:0.9em\">Pass by Indian Bank (on the left)</div>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "kmcnA{p_bNRHNLVLVLx@@b@?vC@bA?pA?xA@tCKhC?xA@hAAbD@`@?T@dFAj@@x@?tA?zGBjFH|DDTAvEBhDCjJJv@?h@?J?~JF|D@jA?rD@V?lA@R?j@@h@@nA?\\?RCTEZIRMHE`@YzAiAj@c@^SPGLCPAHAnAMn@?N?PANA`DIN?lB?TAf@C~@IfAEl@ARAhDEdACjBMvDO\\ChBOnAGTCfAEjBCv@@f@D\\HNDb@Lj@TTDf@N"
+                            },
+                            "start_location": {
+                                "lat": 12.9661407,
+                                "lng": 79.1375797
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 303
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 71
+                            },
+                            "end_location": {
+                                "lat": 12.9316002,
+                                "lng": 79.1361362
+                            },
+                            "html_instructions": "At <b>Green Cir</b>, take the <b>3rd</b> exit onto <b>NH 46 Service Rd</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                            "maneuver": "roundabout-left",
+                            "polyline": {
+                                "points": "e{|mAcv_bNL?N@LDFBHDFDLNLNLPPf@FVADADCDABCBGBC?C@A@f@~BHn@XjB"
+                            },
+                            "start_location": {
+                                "lat": 12.9325065,
+                                "lng": 79.13842269999999
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "{ycnAiccbNN??ND~F@lEBjDLtDTtGFjDCl@Gl@iAjFa@pA}@xDQfAMjBEnDFrDLrFD~D@pBH|@Lf@P\\t@fAfDhE|BfCnB|BN\\RHf@ZVLx@@zD@tC?xA@tCKbF@lF?hI@nC?fOLrEB`K?xMJ|XJdDBxB@p@Cp@O\\S|BcBjAw@^KZCnAMn@?`@ApDK|B?|@E~@IfAE`ACnFIbH]fCSdBKrDIv@@f@Dl@NnAb@|@T\\@THPJZ^^x@FVADEJEFQFf@~BHn@XjB"
+            },
+            "summary": "VIT Main Rd and NH75",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}
