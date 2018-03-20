@@ -10,7 +10,7 @@ import datetime #for extracting current time for arrival
 import urllib.request # As we have to do a web request
 import json #Useful in getting the request in dictionary
 endpoint = 'https://maps.googleapis.com/maps/api/directions/json?'
-api_key = 'AIzaSyAfMxP50f1v4iLaaVn_QZlVobuMn_xVEb0'
+api_key = 'Add your API here'
 plt = gmplot.GoogleMapPlotter.from_geocode("Vellore")
 
 
